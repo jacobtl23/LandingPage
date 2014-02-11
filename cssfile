@@ -1,0 +1,13 @@
+body{
+background-image:url('background.jpg');
+background-repeat:no-repeat;
+background-size:3000px 1000px;
+}
+
+p{
+border: 2px solid black;
+height:150px;
+width:700px;
+font-size:200%;
+
+}
